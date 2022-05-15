@@ -1,0 +1,6 @@
+eva2_4_herencia_vehiculos.Vehiculo
+eva2_4_herencia_vehiculos.Automovil
+eva2_4_herencia_vehiculos.Camiones
+eva2_4_herencia_vehiculos.Motocicleta
+eva2_4_herencia_vehiculos.EVA2_4_HERENCIA_VEHICULOS
+eva2_4_herencia_vehiculos.Camioneta
